@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "A note-taking application",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janimuhlestein/note-taker.git"
+  },
+  "author": "Jani Muhlestein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janimuhlestein/note-taker/issues"
+  },
+  "homepage": "https://github.com/janimuhlestein/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.5.2",
+    "node": "^14.13.0"
+  }
+}
