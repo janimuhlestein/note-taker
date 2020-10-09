@@ -16,6 +16,9 @@ All existing notes will be displayed on the left.
 
 To delete a note, click on the trash can to the right of the note title.
 
+# Link to deployed application
+https://pacific-falls-06053.herokuapp.com
+
 # Images of usage
 ![FrontPage](https://user-images.githubusercontent.com/52082187/95534364-da7e6300-09a2-11eb-89d0-01a2aca1e0d3.jpg)
 
