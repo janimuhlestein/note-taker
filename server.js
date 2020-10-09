@@ -8,8 +8,11 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
+//take input from user
 app.use(express.urlencoded({extended: true}));
+//use json
 app.use(express.json());
+//use the public directory in the Develop directory
 app.use(express.static(__dirname + '/Develop/public'));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);

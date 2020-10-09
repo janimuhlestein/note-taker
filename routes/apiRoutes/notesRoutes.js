@@ -2,13 +2,13 @@ const router = require('express').Router();
 const {createNewNote, validateNote, deleteNote} = require('../../lib/notes');
 const {notes} = require('../../Develop/db/db.json');
 
-console.log(notes);
-
+//display the notes
 router.get('/notes', (req, res) => {
     let results = notes;
     res.json(results);
 });
 
+//post a new note
 router.post('/notes', (req, res) => {
     req.body.id = notes.length.toString();
     //console.log(req.body);
@@ -20,6 +20,7 @@ router.post('/notes', (req, res) => {
     } 
 });
 
+//delete a note
 router.delete('/notes/:id', (req, res)=> {
    deleteNote(req.params.id, notes);
   let results = notes;
