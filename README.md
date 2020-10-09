@@ -21,3 +21,6 @@ To delete a note, click on the trash can to the right of the note title.
 
 ![notepage](https://user-images.githubusercontent.com/52082187/95534372-df431700-09a2-11eb-84cf-c1b9c8d44d67.jpg)
 
+# Link of video -- displays basic functionality
+
+https://drive.google.com/file/d/1TFV7P05iOTMvg-Qbv06XHknqYgx1gaM4/view
