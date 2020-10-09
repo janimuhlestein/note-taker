@@ -24,6 +24,12 @@ https://pacific-falls-06053.herokuapp.com
 
 ![notepage](https://user-images.githubusercontent.com/52082187/95534372-df431700-09a2-11eb-84cf-c1b9c8d44d67.jpg)
 
-# Link of video -- displays basic functionality
+# All tests passed
+There were only two testable functions, but they both passed.
+
+![tests-results](https://user-images.githubusercontent.com/52082187/95537219-5c25bf00-09aa-11eb-85f6-49bf1be19808.jpg)
+
+
+# Link to video -- displays basic functionality
 
 https://drive.google.com/file/d/1TFV7P05iOTMvg-Qbv06XHknqYgx1gaM4/view
