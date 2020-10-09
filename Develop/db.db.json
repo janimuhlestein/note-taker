@@ -4,11 +4,6 @@
       "id": "0",
       "title": "test note",
       "text": "text text"
-    },
-    {
-      "title": "Another note!",
-      "text": "Give me another note.",
-      "id": "1"
     }
   ]
 }
